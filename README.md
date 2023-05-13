@@ -7,5 +7,5 @@ Welcome to our website: http://www.tcmkg.com/ISPO.
 
 Data can be obtained from several sources as follows:
 
-1. https://bioportal.bioontology.org/ontologies/ISPO
-2. http://www.tcmkg.com/ISPO/download
+1. http://www.tcmkg.com/ISPO/download
+2. https://bioportal.bioontology.org/ontologies/ISPO
