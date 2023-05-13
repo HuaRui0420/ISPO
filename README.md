@@ -4,4 +4,8 @@ ISPO(Integrated Symptom Phenotype Ontology) is an integrated symptom phenotype o
 ## Browse
 Welcome to our website: http://www.tcmkg.com/ISPO.
 
-Data can be obtained from https://bioportal.bioontology.org/ontologies/ISPO
+
+Data can be obtained from several sources as follows:
+
+1. https://bioportal.bioontology.org/ontologies/ISPO
+2. http://www.tcmkg.com/ISPO/download
